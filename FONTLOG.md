@@ -1,7 +1,7 @@
 FONTLOG for Format_1452
 -------------------
 
-This file provides detailed information on the Boeticher font software.
+This file provides detailed information on the Format_1452 font software.
 This information should be distributed along with Format_1452 fonts
 and any derivative works.
 
