@@ -46,6 +46,6 @@ web-address (W) and description (D). This list is sorted by last name in
 alphabetical order.
 
 N: Frank Adebiaye
-E: ?
-W: ?
+E: fadebiaye@gmail.com
+W: http://www.fadebiaye.com/
 D: Designer - original Roman glyphs
