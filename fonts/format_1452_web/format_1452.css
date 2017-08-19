@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Format1452';
+    src: url('fontes/format_1452-webfont.eot');
+    src: url('fontes/format_1452-webfont.eot?#iefix') format('eot'),
+         url('fontes/format_1452-webfont.woff') format('woff'),
+         url('fontes/format_1452-webfont.ttf') format('truetype'),
+         url('fontes/format_1452-webfont.svg#webfontJcWOQhJk') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
